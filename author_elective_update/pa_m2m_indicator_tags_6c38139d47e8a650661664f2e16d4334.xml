@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_indicator_tags">
+    <pa_m2m_indicator_tags action="DELETE">
+        <indicator display_value="NeedIt: Due Monthly">b03f079147e8a650661664f2e16d432b</indicator>
+        <order/>
+        <sys_class_name>pa_m2m_indicator_tags</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 06:18:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c38139d47e8a650661664f2e16d4334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly.Show Analytics Hub</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_indicator_tags_6c38139d47e8a650661664f2e16d4334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 06:18:22</sys_updated_on>
+        <tag display_value="Show Analytics Hub">2838139d47e8a650661664f2e16d4331</tag>
+    </pa_m2m_indicator_tags>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3293d8cdeb23525c9698ff72dad0cd6a</instance_id>
+        <instance_name>dev294903</instance_name>
+        <name>pa_m2m_indicator_tags_6c38139d47e8a650661664f2e16d4334</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_indicator_tags"><pa_m2m_indicator_tags action="INSERT_OR_UPDATE"><indicator display_value="NeedIt: Due Monthly">b03f079147e8a650661664f2e16d432b</indicator><order/><sys_class_name>pa_m2m_indicator_tags</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-27 06:18:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6c38139d47e8a650661664f2e16d4334</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Due Monthly.Show Analytics Hub</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_m2m_indicator_tags_6c38139d47e8a650661664f2e16d4334</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-27 06:18:22</sys_updated_on><tag display_value="Show Analytics Hub">2838139d47e8a650661664f2e16d4331</tag></pa_m2m_indicator_tags></record_update>]]></payload>
+        <payload_hash>-1345011522</payload_hash>
+        <record_name>NeedIt: Due Monthly.Show Analytics Hub</record_name>
+        <reverted_from/>
+        <source>c5a2db53475c2e10661664f2e16d43e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 06:18:22</sys_created_on>
+        <sys_id>6c3857dd47e8a650661664f2e16d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195d64073220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 06:18:22</sys_updated_on>
+        <type>Indicator Group</type>
+        <update_guid>203857dd00e8a650be2141adcdfbed98</update_guid>
+        <update_guid_history>203857dd00e8a650be2141adcdfbed98:-1345011522</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Due Monthly.Show Analytics Hub">563897dd47e8a650661664f2e16d4314</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-27 06:18:29</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_indicator_tags">pa_m2m_indicator_tags</sys_db_object>
+        <sys_id>1d2184bd7aaa48d2863d470c563885c4</sys_id>
+        <sys_metadata>6c38139d47e8a650661664f2e16d4334</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly.Show Analytics Hub</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt: Due Monthly">b03f079147e8a650661664f2e16d432b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_m2m_indicator_tags_6c38139d47e8a650661664f2e16d4334</sys_update_name>
+        <sys_update_version display_value="pa_m2m_indicator_tags_6c38139d47e8a650661664f2e16d4334">6c3857dd47e8a650661664f2e16d4398</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-27 06:18:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
